@@ -1,0 +1,2 @@
+debian/standard/lib/*.a usr/lib
+debian/standard/usr/include/dmraid usr/include
